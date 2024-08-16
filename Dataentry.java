@@ -1,4 +1,3 @@
-package zoho;
 import java.util.*;
 public class Dataentry {
 	static char Map[][];
