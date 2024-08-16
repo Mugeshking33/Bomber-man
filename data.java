@@ -1,4 +1,3 @@
-package zoho;
 import java.util.*;
 public class data {
 	static List<Integer> check(int i,int j,char c){
